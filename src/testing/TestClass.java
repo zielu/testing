@@ -4,7 +4,7 @@
 package testing;
 
 /**
- * <p>My test class</p>
+ * <p>My test class !!!!!!!</p>
  * <br/>
  * <p>Created on 07.02.13</p>
  *
