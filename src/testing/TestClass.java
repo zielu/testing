@@ -11,4 +11,5 @@ package testing;
  * @author Lukasz Zielinski
  */
 public class TestClass {
+    //asd
 }
