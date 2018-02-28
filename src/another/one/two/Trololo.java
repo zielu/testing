@@ -6,7 +6,7 @@ package another.one.two;
  * Date: 09.02.13
  * Time: 13:54
  * To change this template use File | Settings | File Templates.
- * AAAAAA
+ * 
  */
 public class Trololo {
 }
